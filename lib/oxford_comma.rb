@@ -1,5 +1,3 @@
-array = ["fiddleheads","okra","kohlrabi"]
-
 def oxford_comma(array)
   array[-1].insert(0, "and ")
   end
