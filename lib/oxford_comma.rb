@@ -1,5 +1,3 @@
-array = ["fiddleheads","okra","kohlrabi"]
-
 def oxford_comma(array)
-  array.join("and")
+  ["fiddleheads","okra","kohlrabi"].join("and")
 end
